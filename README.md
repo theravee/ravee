@@ -6,7 +6,7 @@
 - 👀 I’m interested in ... everything about code & gadget.
 - 🌱 I’m currently learning ... Github.
 - 👯 I’m looking to collaborate on ... Github.
-- 🤔 I’m looking for help with ... Finding new projects to work on.
+<!-- - 🤔 I’m looking for help with ... .. -->
 - 💬 Ask me about ... Anything in your mind.
 - 📫 How to reach me: ... DM: m.me/100030756145392
 - 😄 Pronouns: ... Mr. Rak Kunimoto (Ravee)
